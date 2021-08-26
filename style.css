@@ -1,0 +1,21 @@
+#canvas {
+    background-position: center;
+    background-size: contain;
+    border: 2px black solid;
+    background-image: url(Grass.jpg);
+    cursor: none;
+}
+
+
+#hd3 {
+    display: inline-block;
+    color: red;
+    background-color: aliceblue;
+    font-family: fantasy;
+}
+
+#replay {
+    font-size: 25px;
+    border-radius: 10;
+    visibility: hidden;
+}
